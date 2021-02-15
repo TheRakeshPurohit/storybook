@@ -86,7 +86,7 @@ Object {
                   Object {
                     "absoluteImports": "NODE_MODULES/core-js/index.js",
                     "method": "usage-global",
-                    "version": "3.8.2",
+                    "version": "3.8.3",
                   },
                 ],
                 Array [
@@ -170,7 +170,7 @@ Object {
                   Object {
                     "absoluteImports": "NODE_MODULES/core-js/index.js",
                     "method": "usage-global",
-                    "version": "3.8.2",
+                    "version": "3.8.3",
                   },
                 ],
               ],
@@ -295,7 +295,7 @@ Object {
                   Object {
                     "absoluteImports": "NODE_MODULES/core-js/index.js",
                     "method": "usage-global",
-                    "version": "3.8.2",
+                    "version": "3.8.3",
                   },
                 ],
                 Array [
@@ -414,7 +414,7 @@ Object {
                   Object {
                     "absoluteImports": "NODE_MODULES/core-js/index.js",
                     "method": "usage-global",
-                    "version": "3.8.2",
+                    "version": "3.8.3",
                   },
                 ],
                 Array [
