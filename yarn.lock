@@ -7233,9 +7233,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@storybook/preset-create-react-app@npm:^3.1.6-alpha.0":
-  version: 3.1.6-alpha.0
-  resolution: "@storybook/preset-create-react-app@npm:3.1.6-alpha.0"
+"@storybook/preset-create-react-app@npm:^3.1.6":
+  version: 3.1.6
+  resolution: "@storybook/preset-create-react-app@npm:3.1.6"
   dependencies:
     "@types/babel__core": ^7.1.7
     "@types/webpack": ^4.41.13
@@ -7248,7 +7248,7 @@ __metadata:
     "@storybook/node-logger": "*"
     "@storybook/react": ">=5.2"
     react-scripts: ">=3.0.0"
-  checksum: 12fae309ec2b1accc57e48eb560eb3624161d3cabe9d91b1ec615ecca2fe0b09e591edf0f80762495e4c18b95487b4d38ef6ce91c74b145d81ebfeb1e85acf48
+  checksum: c78e365dcd8864222e2061baf8b4abbb04039b6e07969761ff1497f5e6aac570a5d3ffddbe51fe17bbd2ade4628aea8bb034ef41707431f398a97fe39486dce5
   languageName: node
   linkType: hard
 
@@ -16973,7 +16973,7 @@ __metadata:
     "@storybook/addon-storyshots": 6.2.0-alpha.28
     "@storybook/addons": 6.2.0-alpha.28
     "@storybook/client-logger": 6.2.0-alpha.28
-    "@storybook/preset-create-react-app": ^3.1.6-alpha.0
+    "@storybook/preset-create-react-app": ^3.1.6
     "@storybook/react": 6.2.0-alpha.28
     "@storybook/theming": 6.2.0-alpha.28
     global: ^4.4.0
@@ -16992,7 +16992,7 @@ __metadata:
     "@storybook/addon-actions": 6.2.0-alpha.28
     "@storybook/addon-links": 6.2.0-alpha.28
     "@storybook/addons": 6.2.0-alpha.28
-    "@storybook/preset-create-react-app": ^3.1.6-alpha.0
+    "@storybook/preset-create-react-app": ^3.1.6
     "@storybook/react": 6.2.0-alpha.28
     "@storybook/theming": 6.2.0-alpha.28
     babel-core: 6
@@ -17011,7 +17011,7 @@ __metadata:
   dependencies:
     "@storybook/addon-essentials": 6.2.0-alpha.28
     "@storybook/addons": 6.2.0-alpha.28
-    "@storybook/preset-create-react-app": ^3.1.6-alpha.0
+    "@storybook/preset-create-react-app": ^3.1.6
     "@storybook/react": 6.2.0-alpha.28
     "@types/jest": 25.2.3
     "@types/node": 14.14.20
@@ -17035,7 +17035,7 @@ __metadata:
     "@storybook/addon-knobs": 6.2.0-alpha.28
     "@storybook/addon-links": 6.2.0-alpha.28
     "@storybook/addons": 6.2.0-alpha.28
-    "@storybook/preset-create-react-app": ^3.1.6-alpha.0
+    "@storybook/preset-create-react-app": ^3.1.6
     "@storybook/react": 6.2.0-alpha.28
     "@types/enzyme": ^3.10.8
     "@types/jest": 25.2.3
