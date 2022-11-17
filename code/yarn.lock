@@ -14480,9 +14480,9 @@ __metadata:
   linkType: hard
 
 "deep-object-diff@npm:^1.1.0":
-  version: 1.1.7
-  resolution: "deep-object-diff@npm:1.1.7"
-  checksum: 49a9d24de19c1355e253d1399209c60fc8696d8e7fc57346ac4bcb295ca0e944f004d4a96a24e9627bcb58a858cb4b05194f6da845b0157be6a65a2f248e05f3
+  version: 1.1.9
+  resolution: "deep-object-diff@npm:1.1.9"
+  checksum: 12cfd1b000d16c9192fc649923c972f8aac2ddca4f71a292f8f2c1e2d5cf3c9c16c85e73ab3e7d8a89a5ec6918d6460677d0b05bd160f7bd50bb4816d496dc24
   languageName: node
   linkType: hard
 
