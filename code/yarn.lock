@@ -6537,7 +6537,7 @@ __metadata:
     safe-identifier: ^0.4.1
     ts-dedent: ^2.0.0
     typescript: ~4.9.3
-    yaml: ^1.10.0
+    yaml: ^2.2.2
     yaml-loader: ^0.8.0
   languageName: unknown
   linkType: soft
@@ -31220,6 +31220,13 @@ __metadata:
   version: 2.2.1
   resolution: "yaml@npm:2.2.1"
   checksum: 12f3a73f2d28970d146184b1425d32a63f65e9f4840eeab09155a4d23a15be8401ac7a3a09b6626895ccf853c1b9069450957c0ad82cfe591369aaa58d1593d6
+  languageName: node
+  linkType: hard
+
+"yaml@npm:^2.2.2":
+  version: 2.2.2
+  resolution: "yaml@npm:2.2.2"
+  checksum: a95bed9205a1f1cac11b315cb3f7ddf6b9979b85a478a18c86abf3066fd8d32c88f8de128c1ea97c2ac5f05de3268ff64e8286c241fd956851f1308044a50a9d
   languageName: node
   linkType: hard
 
