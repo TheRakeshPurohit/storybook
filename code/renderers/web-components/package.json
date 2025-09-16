@@ -60,7 +60,7 @@
     "@types/tmp": "^0.2.6",
     "cross-spawn": "^7.0.6",
     "lit": "2.3.1",
-    "tmp": "^0.2.3",
+    "tmp": "^0.2.4",
     "typescript": "^5.8.3",
     "web-component-analyzer": "^1.1.6"
   },
