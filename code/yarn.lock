@@ -7902,7 +7902,7 @@ __metadata:
     "@types/node": "npm:^22.0.0"
     empathic: "npm:^2.0.0"
     es-module-lexer: "npm:^1.5.0"
-    glob: "npm:^10.0.0"
+    glob: "npm:^10.5.0"
     knitwork: "npm:^1.1.0"
     magic-string: "npm:^0.30.0"
     pathe: "npm:^1.1.2"
@@ -17238,6 +17238,22 @@ __metadata:
   languageName: node
   linkType: hard
 
+"glob@npm:^10.5.0":
+  version: 10.5.0
+  resolution: "glob@npm:10.5.0"
+  dependencies:
+    foreground-child: "npm:^3.1.0"
+    jackspeak: "npm:^3.1.2"
+    minimatch: "npm:^9.0.4"
+    minipass: "npm:^7.1.2"
+    package-json-from-dist: "npm:^1.0.0"
+    path-scurry: "npm:^1.11.1"
+  bin:
+    glob: dist/esm/bin.mjs
+  checksum: 10c0/100705eddbde6323e7b35e1d1ac28bcb58322095bd8e63a7d0bef1a2cdafe0d0f7922a981b2b48369a4f8c1b077be5c171804534c3509dfe950dde15fbe6d828
+  languageName: node
+  linkType: hard
+
 "glob@npm:^11.0.3":
   version: 11.0.3
   resolution: "glob@npm:11.0.3"
@@ -26146,7 +26162,7 @@ __metadata:
     flush-promises: "npm:^1.0.2"
     fuse.js: "npm:^3.6.1"
     get-npm-tarball-url: "npm:^2.0.3"
-    glob: "npm:^10.0.0"
+    glob: "npm:^10.5.0"
     globby: "npm:^14.0.1"
     jiti: "npm:^2.4.2"
     js-yaml: "npm:^4.1.0"
