@@ -8834,7 +8834,7 @@ __metadata:
     p-limit: "npm:^3.1.0"
     p-retry: "npm:^5.1.2"
     picocolors: "npm:^1.1.0"
-    playwright: "npm:1.52.0"
+    playwright: "npm:1.55.1"
     playwright-core: "npm:1.52.0"
     polka: "npm:^1.0.0-next.28"
     prettier: "npm:^3.6.2"
