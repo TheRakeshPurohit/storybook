@@ -7973,7 +7973,7 @@ __metadata:
     esbuild: "npm:^0.18.0 || ^0.19.0 || ^0.20.0 || ^0.21.0 || ^0.22.0 || ^0.23.0 || ^0.24.0 || ^0.25.0 || ^0.26.0 || ^0.27.0"
     esbuild-loader: "npm:^4.3.0"
     eslint: "npm:^8.57.1"
-    happy-dom: "npm:^17.6.3"
+    happy-dom: "npm:^20.0.2"
     http-server: "npm:^14.1.1"
     husky: "npm:^4.3.7"
     knip: "npm:^5.70.2"
@@ -18497,17 +18497,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"happy-dom@npm:^17.6.3":
-  version: 17.6.3
-  resolution: "happy-dom@npm:17.6.3"
-  dependencies:
-    webidl-conversions: "npm:^7.0.0"
-    whatwg-mimetype: "npm:^3.0.0"
-  checksum: 10c0/bf29e0cd4c39412476ac3e44b86f2f97345241237e902ca822021e030ad475dd5517a0eabffdc4ecbfa3d4becbdd60bcbe9279dab625712930b0c612593335f5
-  languageName: node
-  linkType: hard
-
-"happy-dom@npm:^20.0.11":
+"happy-dom@npm:^20.0.11, happy-dom@npm:^20.0.2":
   version: 20.0.11
   resolution: "happy-dom@npm:20.0.11"
   dependencies:
@@ -31234,13 +31224,6 @@ __metadata:
   version: 3.0.1
   resolution: "webidl-conversions@npm:3.0.1"
   checksum: 10c0/5612d5f3e54760a797052eb4927f0ddc01383550f542ccd33d5238cfd65aeed392a45ad38364970d0a0f4fea32e1f4d231b3d8dac4a3bdd385e5cf802ae097db
-  languageName: node
-  linkType: hard
-
-"webidl-conversions@npm:^7.0.0":
-  version: 7.0.0
-  resolution: "webidl-conversions@npm:7.0.0"
-  checksum: 10c0/228d8cb6d270c23b0720cb2d95c579202db3aaf8f633b4e9dd94ec2000a04e7e6e43b76a94509cdb30479bd00ae253ab2371a2da9f81446cc313f89a4213a2c4
   languageName: node
   linkType: hard
 
