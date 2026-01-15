@@ -271,7 +271,7 @@
     "dequal": "^2.0.2",
     "detect-indent": "^7.0.1",
     "detect-port": "^1.6.1",
-    "diff": "^8.0.2",
+    "diff": "^8.0.3",
     "downshift": "^9.0.4",
     "ejs": "^3.1.10",
     "empathic": "^2.0.0",
